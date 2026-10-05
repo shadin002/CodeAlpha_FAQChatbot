@@ -1,0 +1,253 @@
+[
+  {
+    "question": "How many AI internship tasks do I need to complete?",
+    "answer": "You must complete a minimum of 2 or 3 tasks from the 4 assigned Artificial Intelligence tasks. Submitting only one task is considered incomplete.",
+    "keywords": [
+      "minimum tasks",
+      "number of projects",
+      "how many projects",
+      "two tasks",
+      "three tasks",
+      "complete 2 3 tasks"
+    ]
+  },
+  {
+    "question": "What happens if I submit only one task?",
+    "answer": "Submitting only one task is considered incomplete, so it will not satisfy the internship completion criteria for certificate eligibility.",
+    "keywords": [
+      "one task",
+      "single project",
+      "only one project",
+      "certificate eligibility"
+    ]
+  },
+  {
+    "question": "Where should I upload my source code?",
+    "answer": "For technical domains such as Artificial Intelligence, upload your complete project source code to GitHub.",
+    "keywords": [
+      "upload code",
+      "github source code",
+      "technical domain submission",
+      "where upload project"
+    ]
+  },
+  {
+    "question": "What should my GitHub repository be named?",
+    "answer": "The task instructions specify the repository naming format: CodeAlpha_ProjectName. For this chatbot, a suitable repository name is CodeAlpha_FAQChatbot.",
+    "keywords": [
+      "repo name",
+      "repository naming",
+      "github name",
+      "CodeAlpha project name"
+    ]
+  },
+  {
+    "question": "Do I need to post a project explanation video?",
+    "answer": "Yes. The internship instructions ask you to post a video explanation of your project on LinkedIn and include the GitHub repository link.",
+    "keywords": [
+      "linkedin video",
+      "project video",
+      "video explanation",
+      "github link in linkedin"
+    ]
+  },
+  {
+    "question": "Where do I submit my completed internship task?",
+    "answer": "Submit your completed task through the official Submission Form. The instructions say the form will be shared in the respective WhatsApp group.",
+    "keywords": [
+      "submission form",
+      "submit task",
+      "whatsapp group",
+      "final submission"
+    ]
+  },
+  {
+    "question": "What is Task 1 in the Artificial Intelligence internship?",
+    "answer": "Task 1 is a Language Translation Tool. It requires a user interface, source and target language selection, a translation API, and clear display of the translated output.",
+    "keywords": [
+      "task 1",
+      "translation tool",
+      "language translator",
+      "translation api"
+    ]
+  },
+  {
+    "question": "What optional features are suggested for the translation tool?",
+    "answer": "The task sheet suggests adding a copy button or text-to-speech feature as optional usability improvements for the Language Translation Tool.",
+    "keywords": [
+      "task 1 optional",
+      "copy button",
+      "text to speech",
+      "translator optional features"
+    ]
+  },
+  {
+    "question": "What is Task 2 in the Artificial Intelligence internship?",
+    "answer": "Task 2 is a Chatbot for FAQs. It requires collecting FAQs, preprocessing text with NLP, matching user questions to similar FAQs, and displaying the best matching answer.",
+    "keywords": [
+      "task 2",
+      "faq chatbot",
+      "nlp chatbot",
+      "cosine similarity chatbot"
+    ]
+  },
+  {
+    "question": "Which NLP techniques are suggested for the FAQ chatbot?",
+    "answer": "The task sheet suggests preprocessing with NLP libraries such as NLTK or SpaCy and matching questions using techniques such as cosine similarity or intent matching.",
+    "keywords": [
+      "nltk",
+      "spacy",
+      "cosine similarity",
+      "intent matching",
+      "preprocess tokenize clean"
+    ]
+  },
+  {
+    "question": "Is a chat user interface required for Task 2?",
+    "answer": "A simple chat UI is listed as optional for Task 2. This project includes one to improve usability and presentation.",
+    "keywords": [
+      "chat ui",
+      "task 2 interface",
+      "optional chatbot ui",
+      "streamlit"
+    ]
+  },
+  {
+    "question": "What is Task 3 in the Artificial Intelligence internship?",
+    "answer": "Task 3 is Music Generation with AI. It involves MIDI data collection, note-sequence preprocessing, an RNN/LSTM or GAN model, training, music generation, and MIDI output.",
+    "keywords": [
+      "task 3",
+      "music generation",
+      "midi",
+      "lstm",
+      "gan music"
+    ]
+  },
+  {
+    "question": "Which library is suggested for preprocessing MIDI data?",
+    "answer": "The task sheet gives music21 as an example library for converting and preprocessing MIDI data into note sequences.",
+    "keywords": [
+      "music21",
+      "midi preprocessing",
+      "notes",
+      "task 3 library"
+    ]
+  },
+  {
+    "question": "What models are suggested for AI music generation?",
+    "answer": "The task sheet suggests deep learning approaches such as RNNs, including LSTM networks, or GANs to learn musical patterns.",
+    "keywords": [
+      "rnn",
+      "lstm",
+      "gan",
+      "music model",
+      "deep learning music"
+    ]
+  },
+  {
+    "question": "What is Task 4 in the Artificial Intelligence internship?",
+    "answer": "Task 4 is Object Detection and Tracking. It uses real-time or video input, a pretrained detector such as YOLO or Faster R-CNN, bounding boxes, and tracking such as SORT or Deep SORT.",
+    "keywords": [
+      "task 4",
+      "object detection",
+      "tracking",
+      "yolo",
+      "faster rcnn",
+      "sort",
+      "deep sort"
+    ]
+  },
+  {
+    "question": "Can I use YOLO for the object detection task?",
+    "answer": "Yes. YOLO is explicitly listed as an example of a pretrained object-detection model that can be used for Task 4.",
+    "keywords": [
+      "use yolo",
+      "pretrained yolo",
+      "object detector",
+      "task 4 model"
+    ]
+  },
+  {
+    "question": "What tracking algorithms are suggested for Task 4?",
+    "answer": "The task sheet suggests using tracking algorithms such as SORT or Deep SORT after detecting objects in each video frame.",
+    "keywords": [
+      "sort tracker",
+      "deep sort",
+      "tracking ids",
+      "object tracking algorithm"
+    ]
+  },
+  {
+    "question": "What should be shown in the object detection output?",
+    "answer": "The output should display detected objects with bounding boxes, labels, and tracking IDs in real time.",
+    "keywords": [
+      "bounding boxes",
+      "labels",
+      "tracking id",
+      "real time output"
+    ]
+  },
+  {
+    "question": "Do I need to complete all four AI tasks?",
+    "answer": "No. The official AI task sheet says to complete any 2 or 3 of the 4 listed tasks.",
+    "keywords": [
+      "all four tasks",
+      "need all tasks",
+      "complete four projects",
+      "2 or 3"
+    ]
+  },
+  {
+    "question": "What are the internship completion benefits listed in the task sheet?",
+    "answer": "The sheet lists an internship offer letter, a QR-verified completion certificate, a unique ID certificate, a performance-based letter of recommendation, job or placement support, and resume-building support.",
+    "keywords": [
+      "internship perks",
+      "certificate",
+      "recommendation letter",
+      "placement support",
+      "resume support"
+    ]
+  },
+  {
+    "question": "Should I share my internship status on LinkedIn?",
+    "answer": "Yes. The instructions ask interns to share their internship status on LinkedIn and tag @CodeAlpha.",
+    "keywords": [
+      "linkedin status",
+      "tag codealpha",
+      "share internship",
+      "linkedin post"
+    ]
+  },
+  {
+    "question": "What technologies are used in this FAQ chatbot project?",
+    "answer": "This project uses Python, NLTK for NLP preprocessing and stemming, scikit-learn for TF-IDF and cosine similarity, and Streamlit for the chat user interface.",
+    "keywords": [
+      "tech stack",
+      "python nltk sklearn streamlit",
+      "technologies",
+      "libraries used"
+    ]
+  },
+  {
+    "question": "How does this FAQ chatbot find an answer?",
+    "answer": "It cleans and tokenizes the user question, removes common stop words, stems the remaining words, converts the processed text into TF-IDF vectors, calculates cosine similarity against the stored FAQ questions, and returns the best match when its score passes a confidence threshold.",
+    "keywords": [
+      "how chatbot works",
+      "algorithm",
+      "tfidf process",
+      "similarity matching",
+      "preprocessing"
+    ]
+  },
+  {
+    "question": "Why does the chatbot use a confidence threshold?",
+    "answer": "The threshold prevents the chatbot from confidently returning an unrelated FAQ answer when the best cosine-similarity score is too low.",
+    "keywords": [
+      "threshold",
+      "confidence",
+      "wrong answer",
+      "low similarity",
+      "fallback"
+    ]
+  }
+]

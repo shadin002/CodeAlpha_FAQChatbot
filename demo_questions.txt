@@ -1,0 +1,16 @@
+Suggested demo questions
+
+1. How many tasks do I need to complete?
+2. What happens if I submit only one task?
+3. Where should I upload my source code?
+4. What should my GitHub repository be named?
+5. Do I need to post a project explanation video?
+6. What is Task 2?
+7. Which NLP techniques are suggested for the FAQ chatbot?
+8. Can I use YOLO for Task 4?
+9. What tracking algorithms are suggested?
+10. How does this chatbot find an answer?
+
+Out-of-domain test:
+- What is the weather today?
+Expected behavior: the chatbot should avoid giving a confident unrelated FAQ answer.
